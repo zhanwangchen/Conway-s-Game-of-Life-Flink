@@ -12,9 +12,9 @@ output the number of cells that are alive at the end of the simulation.
 ** Example
 Input Arguments
 
- solve(inputFile, 100, 100, 5)
+solve(inputFile, 100, 100, 5)
 Input file
-===========
+
 1 2 
 2 2 
 3 2 
@@ -27,7 +27,7 @@ Input file
 10 9 
 10 10 
  
-===========
+
 Output
 
 9

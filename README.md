@@ -15,17 +15,28 @@ Input Arguments
 solve(inputFile, 100, 100, 5)
 Input file
 
-1 2 
+1 2
+
 2 2 
+
 3 2 
+
 7 7 
+
 7 8 
+
 8 7 
+
 8 8 
+
 9 9 
+
 9 10 
+
 10 9 
+
 10 10 
+
  
 
 Output
